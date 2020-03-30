@@ -25,3 +25,5 @@ Ce logiciel n'est pas particulèrement optimisé au delà du nécessaire, en con
 De plus ce logiciel utilise les APIs Windows afin d'obtenir un meilleure rendu visuel en tant que TUI. De ce fait, il n'est pas optimisé ou conçu pour d'autre systèmes d'exploitation tel que Mac OS ou Linux. Les "graphismes textuels" en couleures on été conçu en utilisant le progiciel colorama autour du système d'exploitation Windows 10. Il est possible que les anciennes versions de Windows ne supporte pas/mal les couleurs TUI.
 
 Même si il a été conçu en tant qu'exemple pour Parcoursup, ce logiciel est sous license MIT. Il est ouverte à toute copie ou modification de son code source
+
+Ce logiciel existe aussi sous version compilé pour windows: https://github.com/Demo-Parcoursup/Shopify-Discount-Bot/releases/latest
