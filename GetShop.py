@@ -17,6 +17,9 @@ from requests.adapters import HTTPAdapter
 import requests
 from product_list import liste
 
+class Data:
+    pass
+
 def URL():
     while True:
         Window_setting()
@@ -280,9 +283,6 @@ def URL():
                         )
                         time.sleep(3)
                         URL()
-
-                class Data:
-                    pass
 
                 Config = Data()
                 Config.name = shoptitle
