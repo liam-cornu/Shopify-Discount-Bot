@@ -11,11 +11,11 @@ Capacités:
 
 # Dépendances
 - Python (>= 3.2)
-- BeautifulSoup4 (>= 4.7.1)
-- colorama (>= 0.4.1)
-- tabulate (>= 0.8.3)
-- lxml (>= 4.3.3)
-- requests (>= 2.21.0)
+- [BeautifulSoup4](https://launchpad.net/beautifulsoup) (>= 4.7.1)
+- [colorama](https://github.com/tartley/colorama) (>= 0.4.1)
+- [tabulate](https://github.com/astanin/python-tabulate) (>= 0.8.3)
+- [lxml](https://github.com/lxml/lxml) (>= 4.3.3)
+- [requests](https://github.com/psf/requests) (>= 2.21.0)
 
 # Misc
 Ce logiciel n'est pas particulèrement optimisé au delà du nécessaire, en conséquence son code peut être un peu "hacky" et la liste de dépendances aurait pu être fortement réduite.
